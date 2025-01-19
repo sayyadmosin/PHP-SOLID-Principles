@@ -1,4 +1,6 @@
 <?php
+// Single Responsibility Principle
+
 
 class circle {
     private $radius;
